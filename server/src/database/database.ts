@@ -7,7 +7,7 @@ export const sequelize = new Sequelize(
 	{
 		host: 'localhost',
 		dialect: 'postgres',
-		port: 8000,
+		port: 5432,
 	},
 );
 
