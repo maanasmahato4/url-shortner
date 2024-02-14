@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+}
+
+main {
+	font-family: monospace;
+	width: auto;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+header h1 {
+	text-align: center;
+	font-size: 3rem;
+}
+
+.container {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
